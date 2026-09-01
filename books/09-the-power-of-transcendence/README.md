@@ -31,7 +31,8 @@
 
 ## Status
 - Framework: complete
-- Roadmap: pending generation
-- Cover: pending
-- Publishing package: pending
-- Manuscript: pending
+- Roadmap: complete
+- Cover direction/documentation: complete
+- Publishing package: complete
+- Manuscript workspace: complete
+- Final cover image: awaiting manual GitHub image upload
