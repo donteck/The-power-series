@@ -1,6 +1,6 @@
 # The Power of Success — Cover
 
-![The Power of Success — Official Cover](./cover-final.jpg)
+![The Power of Success cover](cover-final.jpg)
 
 ## Official Cover Direction
 - Flat portrait front cover
