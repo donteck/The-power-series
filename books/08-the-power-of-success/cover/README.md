@@ -1,5 +1,7 @@
 # The Power of Success — Cover
 
+![The Power of Success — Official Cover](./cover-final.jpg)
+
 ## Official Cover Direction
 - Flat portrait front cover
 - Premium high-end luxury visual identity
