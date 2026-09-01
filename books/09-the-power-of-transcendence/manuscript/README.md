@@ -1,0 +1,5 @@
+# The Power of Transcendence — Manuscript
+
+This directory is reserved for the complete manuscript of **The Power of Transcendence** by Emmanuel Tuffet.
+
+The roadmap and publishing package remain separate canonical development assets. When the complete manuscript is supplied, it should be stored here without replacing those files.
