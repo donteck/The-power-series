@@ -2,6 +2,8 @@
 
 ## Book 8 of The Power Series
 
+![The Power of Success — Official Cover](./cover/cover-final.jpg)
+
 ### Subtitle
 **The 7 Principles to Define Your Vision, Build Winning Habits, and Create Sustainable Achievement**
 
@@ -25,7 +27,7 @@
 
 ## Status
 - Framework: complete
-- Roadmap: pending generation
-- Cover: pending
+- Roadmap: complete
+- Cover: complete
 - Publishing package: pending
 - Manuscript: pending
