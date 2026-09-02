@@ -40,6 +40,15 @@ Architecture: 9 modules • 45 lessons
 
 Tagline: **LEARN DEEPLY. THINK WISELY. EXECUTE POWERFULLY.**
 
+### Book 14 — The Power of Wisdom
+**Subtitle:** The 6 Principles to Strengthen Your Judgment, Make Better Decisions, and Turn Experience into Intelligent Action
+
+Framework: Worldview • Insight • Sound Judgment • Discernment • Observation • Maturity
+
+Architecture: 6 modules • 30 lessons
+
+Tagline: **THINK DEEPLY. JUDGE WISELY. ACT RESPONSIBLY.**
+
 ## Production Pipeline
 
 Each Power Series title follows this production sequence:
