@@ -49,6 +49,15 @@ Architecture: 6 modules • 30 lessons
 
 Tagline: **THINK DEEPLY. JUDGE WISELY. ACT RESPONSIBLY.**
 
+### Book 15 — The Power of Silence
+**Subtitle:** The 7 Principles to Master Your Inner Voice, Control Your Reactions, and Turn Quiet Strength into Strategic Power
+
+Framework: Stillness • Introspection • Listening • Emotional Control • Non-Reactivity • Confidentiality • Expression
+
+Architecture: 7 modules • 35 lessons
+
+Tagline: **BE STILL. LISTEN DEEPLY. SPEAK WITH PURPOSE.**
+
 ## Production Pipeline
 
 Each Power Series title follows this production sequence:
