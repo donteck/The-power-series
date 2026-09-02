@@ -31,6 +31,15 @@ Framework: Filter • Objectives • Concentration • Uninterrupted Action • 
 
 Framework: Mentality • Identity • Narrative • Development • Self-Belief • Empowerment • Transformation
 
+### Book 13 — The Power of Knowledge
+**Subtitle:** The 9 Principles to Expand Your Mind, Master Valuable Information, and Turn What You Know into Power
+
+Framework: Knowing • Navigation • Observation • Wisdom • Learning • Experience • Discernment • Growth • Execution
+
+Architecture: 9 modules • 45 lessons
+
+Tagline: **LEARN DEEPLY. THINK WISELY. EXECUTE POWERFULLY.**
+
 ## Production Pipeline
 
 Each Power Series title follows this production sequence:
@@ -48,6 +57,6 @@ Each Power Series title follows this production sequence:
 
 ## Planned Expansion
 
-Future words may include Courage, Resilience, Success, Leadership, Excellence, Vision, Growth, Persistence, Determination, Freedom, and Legacy.
+Future words may include Excellence, Vision, Growth, Persistence, Determination, Freedom, and Legacy.
 
 New titles should avoid repeating a previously used core word unless intentionally creating an edition, workbook, or companion volume.
