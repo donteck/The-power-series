@@ -4,17 +4,18 @@
 
 **One Word. One Framework. One Transformation.**
 
-The Power Series is a motivational and personal-development collection that transforms powerful words into practical growth systems. Each book uses the letters of its core word as a structured acronym, with every letter becoming a principle, module, and chapter pathway.
+The Power Series is a motivational and personal-development collection that transforms powerful words into practical growth systems. Each core Power Series book uses the letters of its central word as a structured acronym, with every letter becoming a principle, module, and chapter pathway. The repository also includes selected special business and strategy titles that use purpose-built frameworks where an acronym would weaken the concept.
 
 ## Series Architecture
 
-- One motivational word per book
+- One motivational word per core book
 - One principle per letter
 - One module per principle
 - Roadmap-ready learning structure
 - Long-form book development
 - Cover and visual identity tailored to each subject
 - Publishing and marketing assets for Amazon, YouTube, and related platforms
+- Special framework-based business titles when appropriate
 
 ## Current Books
 
@@ -33,26 +34,31 @@ The Power Series is a motivational and personal-development collection that tran
 13. **The Power of Knowledge** — 9 principles
 14. **The Power of Wisdom** — 6 principles
 15. **The Power of Silence** — 7 principles
+16. **Beyond the Product** — 3-layer business and consumer psychology framework
 
 ## Latest Addition
 
-### Book 15 — The Power of Silence
+### Book 16 — Beyond the Product
 
-**Subtitle:** The 7 Principles to Master Your Inner Voice, Control Your Reactions, and Turn Quiet Strength into Strategic Power
+**Subtitle:** Why Customers Buy Solutions, Feelings, and Identity
 
-**Framework:** Stillness • Introspection • Listening • Emotional Control • Non-Reactivity • Confidentiality • Expression
+**Framework:** Product → Solution → Feeling → Identity
 
-**Architecture:** 7 modules • 35 lessons
+**Core Principles:** Solution • Feeling • Identity
 
-**Tagline:** **BE STILL. LISTEN DEEPLY. SPEAK WITH PURPOSE.**
+**Tagline:** **UNDERSTAND PEOPLE. INFLUENCE DECISIONS. BUILD BRANDS THAT LAST.**
+
+*Beyond the Product* is a special framework-based business title. It preserves the Power Series commitment to memorable transformation systems while intentionally using a three-layer customer-value framework rather than forcing the subject into a one-word acronym.
 
 ## Core Philosophy
 
-The series is designed around a repeatable transformation model:
+The core series is designed around a repeatable transformation model:
 
 **WORD → LETTERS → PRINCIPLES → MODULES → ROADMAP → COURSE → BOOK**
 
-Each title preserves the recognizable Power Series architecture while developing its own philosophy, color identity, teaching structure, exercises, and transformation pathway.
+Special business titles preserve the same framework-first philosophy while using the architecture most appropriate to the subject.
+
+Each title develops its own philosophy, visual identity, teaching structure, exercises, and transformation pathway.
 
 ## Author
 
